@@ -64,7 +64,9 @@
 
 ---
 
-**==总结：用git bash进行clone，用git gui进行push==**
+总结一句话，用git bash进行clone，用git gui进行push！
+
+附带说一句，安卓上有github的app，可以用一下！
 
 
 
