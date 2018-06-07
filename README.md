@@ -4,7 +4,7 @@
 
 ---
 
-1. > 在https://github.com/注册一个github账号
+1. > 在https://github.com/ 注册一个github账号
 
 2. > 创建一个github上的远程仓库New repository
    >
